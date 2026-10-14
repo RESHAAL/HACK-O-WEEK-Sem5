@@ -1,0 +1,41 @@
+1. Objective
+
+To learn essential Python libraries for data analysis and visualization, and to understand the basics of backend development by creating a simple REST API.
+
+2. Python Essentials
+
+Practiced functions, Object-Oriented Programming (OOP), list comprehensions, and dictionary comprehensions to strengthen Python programming fundamentals.
+
+3. NumPy
+
+Implemented arrays, array operations, broadcasting, and vectorized operations using NumPy for efficient numerical computation.
+
+4. Pandas
+
+Worked with DataFrames, including creating and reading data, data cleaning, handling missing values, filtering, sorting, merging, and using groupby() for data analysis.
+
+5. Data Visualization
+
+Used Matplotlib and Seaborn to create line plots, bar charts, histograms, scatter plots, pie charts, count plots, and heatmaps for visual data analysis.
+
+6. REST API
+
+Created a simple GET REST API using Flask to retrieve student information in JSON format.
+
+7. API Testing
+
+Ran the Flask server locally and tested the GET endpoint through a web browser using:
+
+http://127.0.0.1:5000/students
+
+8. Tools Used
+Python
+NumPy
+Pandas
+Matplotlib
+Seaborn
+Flask
+VS Code
+9. Outcome
+
+Successfully developed basic skills in Python data analysis, visualization, and backend API development, including creating and testing a simple GET-based REST API.

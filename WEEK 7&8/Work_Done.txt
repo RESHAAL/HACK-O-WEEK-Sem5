@@ -1,0 +1,40 @@
+1. Objective
+
+To understand and implement basic supervised machine learning algorithms for regression and classification using Python and Scikit-learn.
+
+2. Linear Regression
+
+Implemented Linear Regression to predict a continuous numerical value based on input features.
+
+3. Polynomial Regression
+
+Implemented Polynomial Regression to model non-linear relationships between input and output variables.
+
+4. Ridge Regression
+
+Implemented Ridge Regression using L2 regularization to reduce overfitting and control large model coefficients.
+
+5. Lasso Regression
+
+Implemented Lasso Regression using L1 regularization, which can reduce less important feature coefficients toward zero.
+
+6. Logistic Regression
+
+Implemented Logistic Regression for binary classification, such as predicting Pass/Fail using input data.
+
+7. K-Nearest Neighbors (KNN)
+
+Implemented KNN classification, where the class of a new data point is determined using the classes of its nearest neighboring data points.
+
+8. Model Evaluation
+
+Used train-test split and accuracy score to train the model on training data and evaluate its performance on unseen test data.
+
+9. Tools Used
+Python
+NumPy
+Scikit-learn
+VS Code
+10. Outcome
+
+Successfully implemented basic regression and classification algorithms and gained practical understanding of prediction, regularization, classification, and model evaluation.

@@ -1,0 +1,40 @@
+1. Objective
+
+To understand and implement basic mathematical concepts required for Artificial Intelligence and Machine Learning using Python.
+
+2. Linear Algebra
+
+Implemented vectors and matrices using NumPy. Performed vector addition, subtraction, scalar multiplication, matrix addition, multiplication, and transpose.
+
+3. Dot Product
+
+Calculated the dot product of vectors using NumPy to understand the relationship between vectors.
+
+4. Eigenvalues & Eigenvectors
+
+Used NumPy to calculate eigenvalues and eigenvectors of a matrix and understand their role in matrix transformations.
+
+5. Derivatives
+
+Used SymPy to calculate derivatives of mathematical functions and evaluate derivatives at specific points.
+
+6. Gradients
+
+Implemented gradients for functions with multiple variables to understand how functions change with respect to different inputs.
+
+7. Chain Rule
+
+Implemented the chain rule for composite functions to understand how derivatives propagate through multiple operations.
+
+8. Backpropagation Intuition
+
+Created a simple forward and backward calculation to demonstrate how the chain rule is used in backpropagation for neural networks.
+
+9. Tools Used
+Python
+NumPy
+SymPy
+VS Code
+10. Outcome
+
+Successfully implemented fundamental linear algebra and calculus concepts in Python, providing the mathematical foundation required for understanding Machine Learning algorithms and neural network backpropagation.

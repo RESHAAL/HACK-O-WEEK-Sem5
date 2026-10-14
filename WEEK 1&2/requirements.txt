@@ -1,0 +1,28 @@
+1. Objective
+To understand the basics of backend development and create a simple REST API using Python and Flask.
+
+2. Technologies Used
+Python
+Flask
+JSON
+VS Code
+
+3. Flask Setup
+Flask was installed using pip and imported into the Python program to create a basic web server.
+
+4. Data Creation
+A simple list of student records was created containing ID, Name, and Course.
+
+5. GET API
+A GET endpoint /students was created to retrieve all student records from the server.
+
+6. JSON Response
+The student data was converted into a JSON response using Flask's jsonify() function.
+
+7. API Testing
+The Flask server was executed locally, and the GET API was tested through a web browser using:
+
+http://127.0.0.1:5000/students
+
+8. Outcome
+A basic working REST API was successfully developed that retrieves and displays student data in JSON format.

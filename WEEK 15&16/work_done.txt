@@ -1,0 +1,28 @@
+# Work Done – Model Deployment and Neural Networks
+
+## 1. Objective
+To understand model deployment basics, perceptrons, activation functions, forward and backward propagation, loss functions, optimization algorithms, and implement a neural network from scratch using NumPy.
+
+## 2. Model Deployment
+Implemented model saving and loading using **Pickle** and **Joblib**. Trained a Logistic Regression model, saved it to a file, and loaded it again to make predictions.
+
+## 3. Perceptron
+Implemented a basic perceptron using NumPy to understand inputs, weights, bias, weighted sum, and binary output generation.
+
+## 4. Activation Functions
+Implemented **Sigmoid, ReLU, and Tanh** activation functions and studied how they introduce non-linearity into neural networks.
+
+## 5. Forward and Backward Propagation
+Implemented forward propagation to calculate predictions and loss, followed by backpropagation to calculate gradients and update weights and bias.
+
+## 6. Loss Functions and Optimizers
+Studied Mean Squared Error (MSE) and Binary Cross-Entropy loss functions. Implemented basic weight updates using **Stochastic Gradient Descent (SGD)** and a simplified **Adam optimizer** update.
+
+## 7. Neural Network From Scratch Using NumPy
+Built a simple neural network using NumPy to solve the XOR problem. Implemented weight initialization, forward propagation, loss calculation, backpropagation, and gradient-descent-based parameter updates.
+
+## 8. Tools Used
+Python, NumPy, Scikit-learn, Pickle, Joblib, and VS Code.
+
+## 9. Outcome
+Gained practical understanding of model serialization, perceptrons, activation functions, neural network training, loss calculation, optimization algorithms, and backpropagation by implementing a neural network from scratch using NumPy.

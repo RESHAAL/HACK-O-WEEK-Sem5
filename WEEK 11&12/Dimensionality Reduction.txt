@@ -1,0 +1,27 @@
+1. Objective
+To study the basic intuition and applications of PCA and t-SNE and understand how they reduce and visualize high-dimensional data.
+
+2. Principal Component Analysis (PCA)
+Studied PCA as a dimensionality reduction technique that transforms multiple features into a smaller number of principal components while preserving the most important information in the data.
+
+3. PCA Applications
+Understood the use of PCA for reducing feature dimensions, simplifying datasets, removing redundant information, and improving data visualization.
+
+4. t-SNE
+Studied t-SNE as a dimensionality reduction technique mainly used for visualizing high-dimensional data in 2D or 3D by preserving relationships between similar data points.
+
+5. t-SNE Applications
+Understood the application of t-SNE for data visualization, identifying clusters, exploring patterns, and analyzing similarities between data points.
+
+6. PCA vs t-SNE
+Compared PCA and t-SNE based on their purpose and behavior. PCA focuses on preserving important variance through linear transformation, while t-SNE focuses mainly on representing local similarities for visualization.
+
+7. Tools Used
+Python
+NumPy
+Scikit-learn
+Matplotlib
+VS Code
+
+8. Outcome
+Gained a basic understanding of dimensionality reduction, PCA, and t-SNE, along with their applications in reducing and visualizing high-dimensional datasets.

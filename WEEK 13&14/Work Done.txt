@@ -1,0 +1,45 @@
+1. Objective
+
+To understand and implement ensemble learning methods and study the bias-variance trade-off, overfitting, underfitting, and regularization using Python.
+
+2. Bagging
+
+Implemented Bagging using multiple decision trees to combine predictions and reduce model variance.
+
+3. Boosting
+
+Implemented Boosting using AdaBoost, where weak learners are trained sequentially to improve prediction performance.
+
+4. XGBoost
+
+Implemented XGBoost for gradient boosting-based classification and understood its use for improving model performance and controlling overfitting.
+
+5. LightGBM
+
+Implemented LightGBM for efficient gradient boosting and studied its application in classification tasks.
+
+6. Bias-Variance Trade-off
+
+Studied the bias-variance trade-off and understood the relationship between model complexity, underfitting, overfitting, and generalization.
+
+7. Overfitting and Underfitting
+
+Compared training and testing performance to understand overfitting and underfitting and studied methods to prevent them.
+
+8. Regularization
+
+Implemented L1 and L2 regularization using Logistic Regression to control model complexity and reduce overfitting.
+
+9. Tools Used
+
+Python
+NumPy
+Pandas
+Scikit-learn
+XGBoost
+LightGBM
+VS Code
+
+10. Outcome
+
+Successfully implemented Bagging, Boosting, XGBoost, and LightGBM and gained practical understanding of bias-variance trade-off, overfitting, underfitting, and L1/L2 regularization.

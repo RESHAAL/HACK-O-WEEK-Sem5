@@ -1,0 +1,62 @@
+1. Objective
+To understand and implement model evaluation techniques, feature engineering, feature scaling, and missing data handling using Python and Scikit-learn.
+
+2. Train-Test Split
+Implemented train-test split to divide the dataset into training and testing sets for evaluating model performance on unseen data.
+
+3. Cross-Validation
+Implemented 5-fold cross-validation to evaluate the model across multiple subsets of the dataset and obtain a reliable performance score.
+
+4. Confusion Matrix
+Implemented a confusion matrix to analyze correct and incorrect classification predictions, including true positives, true negatives, false positives, and false negatives.
+
+5. Precision, Recall & F1-Score
+Calculated precision, recall, and F1-score to measure the classification model's performance and prediction quality.
+
+6. ROC-AUC
+Implemented ROC-AUC evaluation to measure the model's ability to distinguish between different classes.
+
+7. Feature Engineering & Scaling
+Created new features from existing data and applied feature scaling using StandardScaler to bring numerical features to a similar scale.
+
+8. Handling Missing Data
+Handled missing values using SimpleImputer with mean imputation to prepare clean and complete data for model training.
+
+9. Tools Used
+Python
+NumPy
+Pandas
+Scikit-learn
+VS Code
+
+10. Outcome
+Successfully implemented model evaluation techniques, feature engineering, feature scaling, and missing data handling, gaining practical understanding of model performance analysis and data preprocessing.
+------------------------------------------------------------------------------------------------
+1. Objective
+To understand and implement Scikit-learn pipelines and basic unsupervised clustering algorithms using Python and Scikit-learn.
+
+2. Scikit-learn Pipelines
+Implemented Scikit-learn pipelines to combine data preprocessing and machine learning steps into a single workflow, making the model process simple and organized.
+
+3. K-Means Clustering
+Implemented K-Means clustering to divide data into a predefined number of clusters based on the similarity between data points.
+
+4. Hierarchical Clustering
+Implemented Hierarchical Clustering to group similar data points into a tree-like structure and visualize the relationships between clusters.
+
+5. DBSCAN Clustering
+Implemented DBSCAN clustering to identify groups of closely located data points and detect noise or outliers without specifying the number of clusters in advance.
+
+6. Cluster Visualization
+Visualized the generated clusters using suitable plots to understand the grouping and distribution of data points.
+
+7. Tools Used
+Python
+NumPy
+Pandas
+Scikit-learn
+Matplotlib
+VS Code
+
+8. Outcome
+Successfully implemented Scikit-learn pipelines and clustering algorithms including K-Means, Hierarchical Clustering, and DBSCAN, gaining practical understanding of data preprocessing, unsupervised learning, cluster formation, and outlier detection.

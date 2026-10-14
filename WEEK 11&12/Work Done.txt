@@ -1,0 +1,18 @@
+1. Objective
+To understand and implement dimensionality reduction techniques using PCA and t-SNE in Python and Scikit-learn.
+2. Principal Component Analysis (PCA)
+Implemented PCA to reduce the number of features in a high-dimensional dataset while retaining the most important information through principal components.
+3. Data Scaling
+Applied feature scaling using StandardScaler before PCA to ensure that features with larger numerical values do not dominate the analysis.
+4. t-SNE
+Implemented t-SNE for reducing high-dimensional data into a 2D representation, helping to understand the similarity and distribution of data points through visualization.
+5. Visualization
+Created a scatter plot of the t-SNE-transformed data to observe the grouping and distribution of different data points.
+6. Tools Used
+Python  
+NumPy  
+Scikit-learn  
+Matplotlib  
+VS Code
+7. Outcome
+Successfully implemented PCA and t-SNE for dimensionality reduction and visualization, gaining practical understanding of feature reduction, principal components, and high-dimensional data representation.
